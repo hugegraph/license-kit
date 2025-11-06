@@ -1,5 +1,25 @@
 [
     {
+        "jar": "HdrHistogram-2.1.12.jar",
+        "url": "https://central.sonatype.com/artifact/org.hdrhistogram/HdrHistogram/2.1.12"
+    },
+    {
+        "jar": "HdrHistogram-2.1.9.jar",
+        "url": "https://central.sonatype.com/artifact/org.hdrhistogram/HdrHistogram/2.1.9"
+    },
+    {
+        "jar": "LatencyUtils-2.0.3.jar",
+        "url": "https://central.sonatype.com/artifact/org.latencyutils/LatencyUtils/2.0.3"
+    },
+    {
+        "jar": "RoaringBitmap-0.9.38.jar",
+        "url": "https://central.sonatype.com/artifact/org.roaringbitmap/RoaringBitmap/0.9.38"
+    },
+    {
+        "jar": "ST4-4.0.8.jar",
+        "url": "https://central.sonatype.com/artifact/org.antlr/ST4/4.0.8"
+    },
+    {
         "jar": "accessors-smart-1.2.jar",
         "url": "https://central.sonatype.com/artifact/net.minidev/accessors-smart/1.2"
     },
@@ -12,6 +32,10 @@
         "url": "https://central.sonatype.com/artifact/com.vaadin.external.google/android-json/0.0.20131108.vaadin1"
     },
     {
+        "jar": "animal-sniffer-annotations-1.14.jar",
+        "url": "https://central.sonatype.com/artifact/org.codehaus.mojo/animal-sniffer-annotations/1.14"
+    },
+    {
         "jar": "animal-sniffer-annotations-1.18.jar",
         "url": "https://central.sonatype.com/artifact/org.codehaus.mojo/animal-sniffer-annotations/1.18"
     },
@@ -22,6 +46,10 @@
     {
         "jar": "annotations-13.0.jar",
         "url": "https://central.sonatype.com/artifact/org.jetbrains/annotations/13.0"
+    },
+    {
+        "jar": "annotations-24.0.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.jetbrains/annotations/24.0.1"
     },
     {
         "jar": "annotations-4.1.1.4.jar",
@@ -58,6 +86,10 @@
     {
         "jar": "arthas-packaging-3.7.1.jar",
         "url": "https://central.sonatype.com/artifact/com.taobao.arthas/arthas-packaging/3.7.1"
+    },
+    {
+        "jar": "asm-5.0.4.jar",
+        "url": "https://central.sonatype.com/artifact/org.ow2.asm/asm/5.0.4"
     },
     {
         "jar": "asm-6.0.jar",
@@ -112,6 +144,10 @@
         "url": "https://central.sonatype.com/artifact/com.google.auto.service/auto-service-annotations/1.0"
     },
     {
+        "jar": "automaton-1.11-8.jar",
+        "url": "https://central.sonatype.com/artifact/dk.brics.automaton/automaton/1.11-8"
+    },
+    {
         "jar": "bolt-1.6.2.jar",
         "url": "https://central.sonatype.com/artifact/com.alipay.sofa/bolt/1.6.2"
     },
@@ -160,8 +196,16 @@
         "url": "https://central.sonatype.com/artifact/org.checkerframework/checker-compat-qual/2.5.5"
     },
     {
+        "jar": "checker-qual-2.0.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.checkerframework/checker-qual/2.0.0"
+    },
+    {
         "jar": "checker-qual-3.12.0.jar",
         "url": "https://central.sonatype.com/artifact/org.checkerframework/checker-qual/3.12.0"
+    },
+    {
+        "jar": "checker-qual-3.33.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.checkerframework/checker-qual/3.33.0"
     },
     {
         "jar": "checker-qual-3.5.0.jar",
@@ -264,6 +308,10 @@
         "url": "https://central.sonatype.com/artifact/org.apache.commons/commons-lang3/3.13.0"
     },
     {
+        "jar": "commons-lang3-3.18.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.commons/commons-lang3/3.18.0"
+    },
+    {
         "jar": "commons-logging-1.1.1.jar",
         "url": "https://central.sonatype.com/artifact/commons-logging/commons-logging/1.1.1"
     },
@@ -274,6 +322,10 @@
     {
         "jar": "commons-math3-3.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.commons/commons-math3/3.2"
+    },
+    {
+        "jar": "commons-pool2-2.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.commons/commons-pool2/2.0"
     },
     {
         "jar": "commons-text-1.10.0.jar",
@@ -300,16 +352,32 @@
         "url": "https://central.sonatype.com/artifact/com.lmax/disruptor/3.4.1"
     },
     {
+        "jar": "eclipse-collections-10.4.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.eclipse.collections/eclipse-collections/10.4.0"
+    },
+    {
         "jar": "eclipse-collections-11.1.0.jar",
         "url": "https://central.sonatype.com/artifact/org.eclipse.collections/eclipse-collections/11.1.0"
+    },
+    {
+        "jar": "eclipse-collections-api-10.4.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.eclipse.collections/eclipse-collections-api/10.4.0"
     },
     {
         "jar": "eclipse-collections-api-11.1.0.jar",
         "url": "https://central.sonatype.com/artifact/org.eclipse.collections/eclipse-collections-api/11.1.0"
     },
     {
+        "jar": "error_prone_annotations-2.1.3.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.errorprone/error_prone_annotations/2.1.3"
+    },
+    {
         "jar": "error_prone_annotations-2.10.0.jar",
         "url": "https://central.sonatype.com/artifact/com.google.errorprone/error_prone_annotations/2.10.0"
+    },
+    {
+        "jar": "error_prone_annotations-2.18.0.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.errorprone/error_prone_annotations/2.18.0"
     },
     {
         "jar": "error_prone_annotations-2.3.4.jar",
@@ -344,6 +412,10 @@
         "url": "https://central.sonatype.com/artifact/com.lihaoyi/fastparse_2.12/2.0.4"
     },
     {
+        "jar": "fastutil-8.1.0.jar",
+        "url": "https://central.sonatype.com/artifact/it.unimi.dsi/fastutil/8.1.0"
+    },
+    {
         "jar": "fastutil-8.5.9.jar",
         "url": "https://central.sonatype.com/artifact/it.unimi.dsi/fastutil/8.5.9"
     },
@@ -354,6 +426,14 @@
     {
         "jar": "front-end-9.0-9.0.20190305.jar",
         "url": "https://central.sonatype.com/artifact/org.opencypher/front-end-9.0/9.0.20190305"
+    },
+    {
+        "jar": "fury-core-0.9.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.fury/fury-core/0.9.0"
+    },
+    {
+        "jar": "generex-1.0.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.github.mifmif/generex/1.0.2"
     },
     {
         "jar": "gremlin-console-3.5.1.jar",
@@ -544,6 +624,10 @@
         "url": "https://central.sonatype.com/artifact/com.google.code.gson/gson/2.8.9"
     },
     {
+        "jar": "guava-25.1-jre.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.guava/guava/25.1-jre"
+    },
+    {
         "jar": "guava-27.0-jre.jar",
         "url": "https://central.sonatype.com/artifact/com.google.guava/guava/27.0-jre"
     },
@@ -560,6 +644,10 @@
         "url": "https://central.sonatype.com/artifact/com.google.guava/guava/31.0.1-android"
     },
     {
+        "jar": "guava-32.0.1-android.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.guava/guava/32.0.1-android"
+    },
+    {
         "jar": "hamcrest-2.2.jar",
         "url": "https://central.sonatype.com/artifact/org.hamcrest/hamcrest/2.2"
     },
@@ -568,20 +656,16 @@
         "url": "https://central.sonatype.com/artifact/org.hamcrest/hamcrest-core/1.3"
     },
     {
+        "jar": "hanlp-portable-1.5.0.jar",
+        "url": "Error: Not found"
+    },
+    {
         "jar": "hanlp-portable-1.8.3.jar",
         "url": "https://central.sonatype.com/artifact/com.hankcs/hanlp/portable-1.8.3"
     },
     {
         "jar": "hbase-shaded-endpoint-2.0.6.jar",
         "url": "https://central.sonatype.com/artifact/com.baidu.hugegraph/hbase-shaded-endpoint/2.0.6"
-    },
-    {
-        "jar": "HdrHistogram-2.1.12.jar",
-        "url": "https://central.sonatype.com/artifact/org.hdrhistogram/HdrHistogram/2.1.12"
-    },
-    {
-        "jar": "HdrHistogram-2.1.9.jar",
-        "url": "https://central.sonatype.com/artifact/org.hdrhistogram/HdrHistogram/2.1.9"
     },
     {
         "jar": "hessian-3.3.6.jar",
@@ -636,28 +720,28 @@
         "url": "https://central.sonatype.com/artifact/org.apache.ivy/ivy/2.4.0"
     },
     {
+        "jar": "j2objc-annotations-1.1.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.j2objc/j2objc-annotations/1.1"
+    },
+    {
         "jar": "j2objc-annotations-1.3.jar",
         "url": "https://central.sonatype.com/artifact/com.google.j2objc/j2objc-annotations/1.3"
     },
     {
-        "jar": "jackson-annotations-2.12.6.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.12.6"
+        "jar": "j2objc-annotations-2.8.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.j2objc/j2objc-annotations/2.8"
     },
     {
         "jar": "jackson-annotations-2.13.0.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.13.0"
     },
     {
-        "jar": "jackson-annotations-2.13.2.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.13.2"
-    },
-    {
         "jar": "jackson-annotations-2.14.0-rc1.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.14.0-rc1"
     },
     {
-        "jar": "jackson-core-2.12.6.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.12.6"
+        "jar": "jackson-annotations-2.15.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-annotations/2.15.2"
     },
     {
         "jar": "jackson-core-2.13.0.jar",
@@ -672,6 +756,10 @@
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.14.0-rc1"
     },
     {
+        "jar": "jackson-core-2.15.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-core/2.15.2"
+    },
+    {
         "jar": "jackson-databind-2.12.6.1.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.12.6.1"
     },
@@ -680,8 +768,8 @@
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.13.0"
     },
     {
-        "jar": "jackson-databind-2.13.2.2.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.13.2.2"
+        "jar": "jackson-databind-2.13.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.13.2"
     },
     {
         "jar": "jackson-databind-2.14.0-rc1.jar",
@@ -692,6 +780,10 @@
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.core/jackson-databind/2.15.2"
     },
     {
+        "jar": "jackson-dataformat-yaml-2.11.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.11.2"
+    },
+    {
         "jar": "jackson-dataformat-yaml-2.9.3.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-yaml/2.9.3"
     },
@@ -700,12 +792,12 @@
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jdk8/2.12.6"
     },
     {
-        "jar": "jackson-datatype-jsr310-2.12.6.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.12.6"
+        "jar": "jackson-datatype-jsr310-2.11.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.11.2"
     },
     {
-        "jar": "jackson-datatype-jsr310-2.15.2.jar",
-        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.15.2"
+        "jar": "jackson-datatype-jsr310-2.12.6.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310/2.12.6"
     },
     {
         "jar": "jackson-jakarta-rs-base-2.15.2.jar",
@@ -720,8 +812,16 @@
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.14.0-rc1"
     },
     {
+        "jar": "jackson-jaxrs-base-2.15.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.15.2"
+    },
+    {
         "jar": "jackson-jaxrs-json-provider-2.14.0-rc1.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.14.0-rc1"
+    },
+    {
+        "jar": "jackson-jaxrs-json-provider-2.15.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.15.2"
     },
     {
         "jar": "jackson-module-jakarta-xmlbind-annotations-2.15.2.jar",
@@ -730,6 +830,10 @@
     {
         "jar": "jackson-module-jaxb-annotations-2.14.0-rc1.jar",
         "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.14.0-rc1"
+    },
+    {
+        "jar": "jackson-module-jaxb-annotations-2.15.2.jar",
+        "url": "https://central.sonatype.com/artifact/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.15.2"
     },
     {
         "jar": "jackson-module-parameter-names-2.12.6.jar",
@@ -816,6 +920,14 @@
         "url": "https://central.sonatype.com/artifact/org.javatuples/javatuples/1.2"
     },
     {
+        "jar": "javax-websocket-client-impl-9.4.46.v20220331.jar",
+        "url": "https://central.sonatype.com/artifact/org.eclipse.jetty.websocket/javax-websocket-client-impl/9.4.46.v20220331"
+    },
+    {
+        "jar": "javax-websocket-server-impl-9.4.46.v20220331.jar",
+        "url": "https://central.sonatype.com/artifact/org.eclipse.jetty.websocket/javax-websocket-server-impl/9.4.46.v20220331"
+    },
+    {
         "jar": "javax.activation-api-1.2.0.jar",
         "url": "https://central.sonatype.com/artifact/javax.activation/javax.activation-api/1.2.0"
     },
@@ -830,14 +942,6 @@
     {
         "jar": "javax.json-1.0.jar",
         "url": "https://central.sonatype.com/artifact/org.glassfish/javax.json/1.0"
-    },
-    {
-        "jar": "javax-websocket-client-impl-9.4.46.v20220331.jar",
-        "url": "https://central.sonatype.com/artifact/org.eclipse.jetty.websocket/javax-websocket-client-impl/9.4.46.v20220331"
-    },
-    {
-        "jar": "javax-websocket-server-impl-9.4.46.v20220331.jar",
-        "url": "https://central.sonatype.com/artifact/org.eclipse.jetty.websocket/javax-websocket-server-impl/9.4.46.v20220331"
     },
     {
         "jar": "jaxb-api-2.3.1.jar",
@@ -876,6 +980,10 @@
         "url": "https://central.sonatype.com/artifact/com.beust/jcommander/1.30"
     },
     {
+        "jar": "jcseg-core-2.2.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.lionsoul/jcseg-core/2.2.0"
+    },
+    {
         "jar": "jcseg-core-2.6.2.jar",
         "url": "https://central.sonatype.com/artifact/org.lionsoul/jcseg-core/2.6.2"
     },
@@ -886,6 +994,10 @@
     {
         "jar": "jctools-core-3.1.0.jar",
         "url": "https://central.sonatype.com/artifact/org.jctools/jctools-core/3.1.0"
+    },
+    {
+        "jar": "jedis-2.5.1.jar",
+        "url": "https://central.sonatype.com/artifact/redis.clients/jedis/2.5.1"
     },
     {
         "jar": "jersey-apache-connector-3.0.3.jar",
@@ -1008,11 +1120,11 @@
         "url": "https://central.sonatype.com/artifact/org.eclipse.jetty/jetty-xml/9.4.46.v20220331"
     },
     {
-        "jar": "jffi-1.2.16.jar",
+        "jar": "jffi-1.2.16-native.jar",
         "url": "https://central.sonatype.com/artifact/com.github.jnr/jffi/1.2.16"
     },
     {
-        "jar": "jffi-1.2.16-native.jar",
+        "jar": "jffi-1.2.16.jar",
         "url": "https://central.sonatype.com/artifact/com.github.jnr/jffi/1.2.16"
     },
     {
@@ -1024,12 +1136,24 @@
         "url": "https://central.sonatype.com/artifact/com.huaban/jieba-analysis/1.0.2"
     },
     {
+        "jar": "jjwt-api-0.11.2.jar",
+        "url": "https://central.sonatype.com/artifact/io.jsonwebtoken/jjwt-api/0.11.2"
+    },
+    {
         "jar": "jjwt-api-0.11.5.jar",
         "url": "https://central.sonatype.com/artifact/io.jsonwebtoken/jjwt-api/0.11.5"
     },
     {
+        "jar": "jjwt-impl-0.11.2.jar",
+        "url": "https://central.sonatype.com/artifact/io.jsonwebtoken/jjwt-impl/0.11.2"
+    },
+    {
         "jar": "jjwt-impl-0.11.5.jar",
         "url": "https://central.sonatype.com/artifact/io.jsonwebtoken/jjwt-impl/0.11.5"
+    },
+    {
+        "jar": "jjwt-jackson-0.11.2.jar",
+        "url": "https://central.sonatype.com/artifact/io.jsonwebtoken/jjwt-jackson/0.11.2"
     },
     {
         "jar": "jjwt-jackson-0.11.5.jar",
@@ -1076,14 +1200,6 @@
         "url": "https://central.sonatype.com/artifact/com.alipay.sofa/jraft-core/1.3.9"
     },
     {
-        "jar": "json-20210307.jar",
-        "url": "https://central.sonatype.com/artifact/org.json/json/20210307"
-    },
-    {
-        "jar": "jsonassert-1.5.0.jar",
-        "url": "https://central.sonatype.com/artifact/org.skyscreamer/jsonassert/1.5.0"
-    },
-    {
         "jar": "json-path-2.5.0.jar",
         "url": "https://central.sonatype.com/artifact/com.jayway.jsonpath/json-path/2.5.0"
     },
@@ -1094,6 +1210,10 @@
     {
         "jar": "json-smart-2.3.jar",
         "url": "https://central.sonatype.com/artifact/net.minidev/json-smart/2.3"
+    },
+    {
+        "jar": "jsonassert-1.5.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.skyscreamer/jsonassert/1.5.0"
     },
     {
         "jar": "jsr305-3.0.1.jar",
@@ -1216,8 +1336,88 @@
         "url": "https://central.sonatype.com/artifact/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.6.10"
     },
     {
-        "jar": "LatencyUtils-2.0.3.jar",
-        "url": "https://central.sonatype.com/artifact/org.latencyutils/LatencyUtils/2.0.3"
+        "jar": "kubernetes-client-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-client/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-admissionregistration-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-admissionregistration/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-apiextensions-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-apiextensions/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-apps-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-apps/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-autoscaling-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-autoscaling/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-batch-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-batch/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-certificates-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-certificates/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-common-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-common/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-coordination-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-coordination/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-core-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-core/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-discovery-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-discovery/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-events-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-events/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-extensions-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-extensions/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-flowcontrol-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-flowcontrol/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-metrics-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-metrics/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-networking-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-networking/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-node-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-node/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-policy-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-policy/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-rbac-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-rbac/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-scheduling-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-scheduling/5.6.0"
+    },
+    {
+        "jar": "kubernetes-model-storageclass-5.6.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/kubernetes-model-storageclass/5.6.0"
     },
     {
         "jar": "listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar",
@@ -1284,6 +1484,10 @@
         "url": "https://central.sonatype.com/artifact/org.apache.logging.log4j/log4j-slf4j-impl/2.18.0"
     },
     {
+        "jar": "logging-interceptor-3.12.12.jar",
+        "url": "https://central.sonatype.com/artifact/com.squareup.okhttp3/logging-interceptor/3.12.12"
+    },
+    {
         "jar": "logging-interceptor-4.10.0.jar",
         "url": "https://central.sonatype.com/artifact/com.squareup.okhttp3/logging-interceptor/4.10.0"
     },
@@ -1296,32 +1500,72 @@
         "url": "https://central.sonatype.com/artifact/com.alipay.sofa.lookout/lookout-api/1.4.1"
     },
     {
+        "jar": "lucene-analyzers-common-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-analyzers-common/5.2.1"
+    },
+    {
         "jar": "lucene-analyzers-common-8.11.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-analyzers-common/8.11.2"
+    },
+    {
+        "jar": "lucene-analyzers-smartcn-7.4.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-analyzers-smartcn/7.4.0"
     },
     {
         "jar": "lucene-analyzers-smartcn-8.11.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-analyzers-smartcn/8.11.2"
     },
     {
+        "jar": "lucene-backward-codecs-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-backward-codecs/5.2.1"
+    },
+    {
+        "jar": "lucene-core-7.4.0.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-core/7.4.0"
+    },
+    {
         "jar": "lucene-core-8.11.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-core/8.11.2"
+    },
+    {
+        "jar": "lucene-misc-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-misc/5.2.1"
     },
     {
         "jar": "lucene-queries-4.7.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-queries/4.7.2"
     },
     {
+        "jar": "lucene-queries-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-queries/5.2.1"
+    },
+    {
         "jar": "lucene-queryparser-4.7.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-queryparser/4.7.2"
+    },
+    {
+        "jar": "lucene-queryparser-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-queryparser/5.2.1"
     },
     {
         "jar": "lucene-sandbox-4.7.2.jar",
         "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-sandbox/4.7.2"
     },
     {
+        "jar": "lucene-sandbox-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-sandbox/5.2.1"
+    },
+    {
+        "jar": "lucene-suggest-5.2.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.apache.lucene/lucene-suggest/5.2.1"
+    },
+    {
         "jar": "lz4-java-1.4.0.jar",
         "url": "https://central.sonatype.com/artifact/org.lz4/lz4-java/1.4.0"
+    },
+    {
+        "jar": "lz4-java-1.7.1.jar",
+        "url": "https://central.sonatype.com/artifact/org.lz4/lz4-java/1.7.1"
     },
     {
         "jar": "lz4-java-1.8.0.jar",
@@ -1416,20 +1660,20 @@
         "url": "https://central.sonatype.com/artifact/io.netty/netty-codec/4.1.72.Final"
     },
     {
-        "jar": "netty-codec-http2-4.1.52.Final.jar",
-        "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http2/4.1.52.Final"
-    },
-    {
-        "jar": "netty-codec-http2-4.1.72.Final.jar",
-        "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http2/4.1.72.Final"
-    },
-    {
         "jar": "netty-codec-http-4.1.52.Final.jar",
         "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http/4.1.52.Final"
     },
     {
         "jar": "netty-codec-http-4.1.72.Final.jar",
         "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http/4.1.72.Final"
+    },
+    {
+        "jar": "netty-codec-http2-4.1.52.Final.jar",
+        "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http2/4.1.52.Final"
+    },
+    {
+        "jar": "netty-codec-http2-4.1.72.Final.jar",
+        "url": "https://central.sonatype.com/artifact/io.netty/netty-codec-http2/4.1.72.Final"
     },
     {
         "jar": "netty-codec-socks-4.1.52.Final.jar",
@@ -1520,8 +1764,16 @@
         "url": "https://central.sonatype.com/artifact/org.caffinitas.ohc/ohc-core-j8/0.5.1"
     },
     {
+        "jar": "okhttp-3.12.12.jar",
+        "url": "https://central.sonatype.com/artifact/com.squareup.okhttp3/okhttp/3.12.12"
+    },
+    {
         "jar": "okhttp-4.10.0.jar",
         "url": "https://central.sonatype.com/artifact/com.squareup.okhttp3/okhttp/4.10.0"
+    },
+    {
+        "jar": "okio-1.15.0.jar",
+        "url": "https://central.sonatype.com/artifact/com.squareup.okio/okio/1.15.0"
     },
     {
         "jar": "okio-jvm-3.0.0.jar",
@@ -1580,6 +1832,10 @@
         "url": "https://central.sonatype.com/artifact/info.picocli/picocli/4.3.2"
     },
     {
+        "jar": "pinyin4j-2.5.0.jar",
+        "url": "https://central.sonatype.com/artifact/com.belerweb/pinyin4j/2.5.0"
+    },
+    {
         "jar": "postgresql-42.4.3.jar",
         "url": "https://central.sonatype.com/artifact/org.postgresql/postgresql/42.4.3"
     },
@@ -1620,6 +1876,14 @@
         "url": "https://central.sonatype.com/artifact/org.powermock/powermock-reflect/2.0.0-RC.3"
     },
     {
+        "jar": "proto-google-common-protos-1.17.0.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.api.grpc/proto-google-common-protos/1.17.0"
+    },
+    {
+        "jar": "proto-google-common-protos-2.0.1.jar",
+        "url": "https://central.sonatype.com/artifact/com.google.api.grpc/proto-google-common-protos/2.0.1"
+    },
+    {
         "jar": "protobuf-java-3.11.0.jar",
         "url": "https://central.sonatype.com/artifact/com.google.protobuf/protobuf-java/3.11.0"
     },
@@ -1638,14 +1902,6 @@
     {
         "jar": "protobuf-java-util-3.17.2.jar",
         "url": "https://central.sonatype.com/artifact/com.google.protobuf/protobuf-java-util/3.17.2"
-    },
-    {
-        "jar": "proto-google-common-protos-1.17.0.jar",
-        "url": "https://central.sonatype.com/artifact/com.google.api.grpc/proto-google-common-protos/1.17.0"
-    },
-    {
-        "jar": "proto-google-common-protos-2.0.1.jar",
-        "url": "https://central.sonatype.com/artifact/com.google.api.grpc/proto-google-common-protos/2.0.1"
     },
     {
         "jar": "protostuff-api-1.6.0.jar",
@@ -1668,12 +1924,12 @@
         "url": "https://central.sonatype.com/artifact/org.psjava/psjava/0.1.19"
     },
     {
-        "jar": "reporter-config3-3.0.3.jar",
-        "url": "https://central.sonatype.com/artifact/com.addthis.metrics/reporter-config3/3.0.3"
-    },
-    {
         "jar": "reporter-config-base-3.0.3.jar",
         "url": "https://central.sonatype.com/artifact/com.addthis.metrics/reporter-config-base/3.0.3"
+    },
+    {
+        "jar": "reporter-config3-3.0.3.jar",
+        "url": "https://central.sonatype.com/artifact/com.addthis.metrics/reporter-config3/3.0.3"
     },
     {
         "jar": "rewriting-9.0-9.0.20190305.jar",
@@ -1684,12 +1940,12 @@
         "url": "https://central.sonatype.com/artifact/org.rocksdb/rocksdbjni/6.29.5"
     },
     {
-        "jar": "rocksdbjni-7.2.2.jar",
-        "url": "https://central.sonatype.com/artifact/org.rocksdb/rocksdbjni/7.2.2"
-    },
-    {
         "jar": "rocksdbjni-7.7.3.jar",
         "url": "https://central.sonatype.com/artifact/org.rocksdb/rocksdbjni/7.7.3"
+    },
+    {
+        "jar": "rocksdbjni-8.10.2.jar",
+        "url": "https://central.sonatype.com/artifact/org.rocksdb/rocksdbjni/8.10.2"
     },
     {
         "jar": "scala-java8-compat_2.12-0.8.0.jar",
@@ -1702,6 +1958,10 @@
     {
         "jar": "scala-reflect-2.12.7.jar",
         "url": "https://central.sonatype.com/artifact/org.scala-lang/scala-reflect/2.12.7"
+    },
+    {
+        "jar": "shims-0.9.38.jar",
+        "url": "https://central.sonatype.com/artifact/org.roaringbitmap/shims/0.9.38"
     },
     {
         "jar": "sigar-1.6.4.jar",
@@ -1740,16 +2000,16 @@
         "url": "https://central.sonatype.com/artifact/org.gridkit.jvmtool/sjk-hflame/0.22"
     },
     {
+        "jar": "sjk-jfr-standalone-0.7.jar",
+        "url": "https://central.sonatype.com/artifact/org.perfkit.sjk.parsers/sjk-jfr-standalone/0.7"
+    },
+    {
         "jar": "sjk-jfr5-0.5.jar",
         "url": "https://central.sonatype.com/artifact/org.perfkit.sjk.parsers/sjk-jfr5/0.5"
     },
     {
         "jar": "sjk-jfr6-0.7.jar",
         "url": "https://central.sonatype.com/artifact/org.perfkit.sjk.parsers/sjk-jfr6/0.7"
-    },
-    {
-        "jar": "sjk-jfr-standalone-0.7.jar",
-        "url": "https://central.sonatype.com/artifact/org.perfkit.sjk.parsers/sjk-jfr-standalone/0.7"
     },
     {
         "jar": "sjk-json-0.14.jar",
@@ -1778,6 +2038,10 @@
     {
         "jar": "slf4j-api-1.7.25.jar",
         "url": "https://central.sonatype.com/artifact/org.slf4j/slf4j-api/1.7.25"
+    },
+    {
+        "jar": "slf4j-api-1.7.31.jar",
+        "url": "https://central.sonatype.com/artifact/org.slf4j/slf4j-api/1.7.31"
     },
     {
         "jar": "slf4j-api-1.7.32.jar",
@@ -1832,8 +2096,16 @@
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-aop/5.3.20"
     },
     {
+        "jar": "spring-aop-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-aop/5.3.27"
+    },
+    {
         "jar": "spring-beans-5.3.20.jar",
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-beans/5.3.20"
+    },
+    {
+        "jar": "spring-beans-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-beans/5.3.27"
     },
     {
         "jar": "spring-boot-2.5.14.jar",
@@ -1900,6 +2172,10 @@
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-context/5.3.20"
     },
     {
+        "jar": "spring-context-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-context/5.3.27"
+    },
+    {
         "jar": "spring-context-support-5.3.20.jar",
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-context-support/5.3.20"
     },
@@ -1908,12 +2184,32 @@
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-core/5.3.20"
     },
     {
+        "jar": "spring-core-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-core/5.3.27"
+    },
+    {
         "jar": "spring-expression-5.3.20.jar",
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-expression/5.3.20"
     },
     {
+        "jar": "spring-expression-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-expression/5.3.27"
+    },
+    {
         "jar": "spring-jcl-5.3.20.jar",
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-jcl/5.3.20"
+    },
+    {
+        "jar": "spring-jcl-5.3.27.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework/spring-jcl/5.3.27"
+    },
+    {
+        "jar": "spring-security-core-5.8.3.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework.security/spring-security-core/5.8.3"
+    },
+    {
+        "jar": "spring-security-crypto-5.8.3.jar",
+        "url": "https://central.sonatype.com/artifact/org.springframework.security/spring-security-crypto/5.8.3"
     },
     {
         "jar": "spring-web-5.3.20.jar",
@@ -1922,10 +2218,6 @@
     {
         "jar": "spring-webmvc-5.3.20.jar",
         "url": "https://central.sonatype.com/artifact/org.springframework/spring-webmvc/5.3.20"
-    },
-    {
-        "jar": "ST4-4.0.8.jar",
-        "url": "https://central.sonatype.com/artifact/org.antlr/ST4/4.0.8"
     },
     {
         "jar": "stream-2.5.2.jar",
@@ -2012,6 +2304,10 @@
         "url": "https://central.sonatype.com/artifact/org.eclipse.jetty.websocket/websocket-servlet/9.4.46.v20220331"
     },
     {
+        "jar": "word-1.3.jar",
+        "url": "https://central.sonatype.com/artifact/org.apdplat/word/1.3"
+    },
+    {
         "jar": "xmlpull-1.1.3.1.jar",
         "url": "https://central.sonatype.com/artifact/xmlpull/xmlpull/1.1.3.1"
     },
@@ -2026,6 +2322,10 @@
     {
         "jar": "xstream-1.4.10.jar",
         "url": "https://central.sonatype.com/artifact/com.thoughtworks.xstream/xstream/1.4.10"
+    },
+    {
+        "jar": "zjsonpatch-0.3.0.jar",
+        "url": "https://central.sonatype.com/artifact/io.fabric8/zjsonpatch/0.3.0"
     },
     {
         "jar": "zstd-jni-1.5.5-1.jar",
