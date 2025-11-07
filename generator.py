@@ -84,7 +84,7 @@ def process_licenses(json_file, dependencies_path):
 
 
 if __name__ == "__main__":
-    dependencies_path = "/home/vgalaxies/Desktop/incubator-hugegraph/install-dist/scripts/dependency/all_dependencies"
+    dependencies_path = "/Users/pengjunzhi/Code/hugegraph/install-dist/scripts/dependency/all_dependencies"
     os.makedirs('licenses', exist_ok=True)
     process_licenses('matched-licenses.json', dependencies_path)
 

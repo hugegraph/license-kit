@@ -99,8 +99,8 @@ def process_files(artifact_file, tree_file):
         json.dump(output_data, output_file, indent=4)
 
 # 示例调用
-artifacts_path = "/home/vgalaxies/Desktop/incubator-hugegraph/install-dist/scripts/dependency/known-dependencies.txt"
-dependency_tree_path = "dependency-tree"
+artifacts_path = "/Users/pengjunzhi/Code/hugegraph/install-dist/scripts/dependency/known-dependencies.txt"
+dependency_tree_path = "/Users/pengjunzhi/Code/hugegraph/dependency-tree.txt"
 
 process_files(artifacts_path, dependency_tree_path)
 
